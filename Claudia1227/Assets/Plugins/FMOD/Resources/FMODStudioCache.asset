@@ -1,0 +1,496 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 114368626782507134}
+  - {fileID: 114264815977587698}
+  - {fileID: 114706398810886892}
+  EditorEvents:
+  - {fileID: 114310323410244978}
+  - {fileID: 114955824641665662}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 114264815977587698}
+  StringsBanks:
+  - {fileID: 114368626782507134}
+  stringsBankWriteTime: 637140169763190455
+  cacheVersion: 3
+--- !u!114 &114009341107255384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140142792654512
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &114052103475234204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140156190677694
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &114088095070789756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140155773095796
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &114121195953533330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Editor Default Resources/FMOD/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637140154164810841
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 732
+  Exists: 0
+--- !u!114 &114122764112716680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140156190677694
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &114189524878265966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140142792654512
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &114213444794709500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140157236498147
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &114243067167119822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637140142792714455
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 732
+  Exists: 0
+--- !u!114 &114251347978414564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Testing
+  m_EditorClassIdentifier: 
+  Path: event:/Testing
+  guid: 0b9020fbb2278c45b6b0507e1676cb09
+  Banks:
+  - {fileID: 114644858134306926}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1409
+--- !u!114 &114264815977587698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140169763170455
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &114310323410244978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Testing
+  m_EditorClassIdentifier: 
+  Path: event:/Testing
+  guid: 0b9020fbb2278c45b6b0507e1676cb09
+  Banks:
+  - {fileID: 114264815977587698}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1409
+--- !u!114 &114368626782507134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637140169763190455
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 826
+  Exists: 1
+--- !u!114 &114471197347120202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Testing
+  m_EditorClassIdentifier: 
+  Path: event:/Testing
+  guid: 0b9020fbb2278c45b6b0507e1676cb09
+  Banks:
+  - {fileID: 114750775882600010}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1409
+--- !u!114 &114524406112411740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Editor Default Resources/FMOD/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637140154164810841
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 732
+  Exists: 0
+--- !u!114 &114644858134306926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140142792654512
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &114682992565777422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637140156190707669
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 732
+  Exists: 1
+--- !u!114 &114706398810886892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/TestBank.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/TestBank.bank
+  SubDir: 
+  lastModified: 637140169763970058
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &114714251122074624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Editor Default Resources/FMOD/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140154164780872
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &114728456923926622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637140157236528126
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 732
+  Exists: 0
+--- !u!114 &114735317747831626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Editor Default Resources/FMOD/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140154164780872
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &114741052413463150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637140156190707669
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 732
+  Exists: 0
+--- !u!114 &114750775882600010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637140156190677694
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &114916894864521514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637140142792714455
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 732
+  Exists: 1
+--- !u!114 &114955824641665662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Testing2
+  m_EditorClassIdentifier: 
+  Path: event:/Testing2
+  guid: 826724e68a1ea84981d406704922de91
+  Banks:
+  - {fileID: 114706398810886892}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 540

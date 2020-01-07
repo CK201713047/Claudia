@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{4bb96497-ebe6-413d-8b9c-427150bf1186}">
+		<property name="assetPath">
+			<value>Testing/SFX-ARCADIA_Notification01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.40959375</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6e8f2822-cc94-4675-a0a3-c70c44392264}</destination>
+		</relationship>
+	</object>
+</objects>
