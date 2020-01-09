@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EditorBanks:
   - {fileID: 114368626782507134}
-  - {fileID: 114264815977587698}
-  - {fileID: 114706398810886892}
+  - {fileID: 114307645241975110}
+  - {fileID: 114200541038761754}
   EditorEvents:
   - {fileID: 114310323410244978}
   - {fileID: 114955824641665662}
   EditorParameters: []
   MasterBanks:
-  - {fileID: 114264815977587698}
+  - {fileID: 114307645241975110}
   StringsBanks:
   - {fileID: 114368626782507134}
-  stringsBankWriteTime: 637140169763190455
+  stringsBankWriteTime: 637141895647035937
   cacheVersion: 3
 --- !u!114 &114009341107255384
 MonoBehaviour:
@@ -136,6 +136,24 @@ MonoBehaviour:
   LoadResult: 0
   FileSizes: []
   Exists: 0
+--- !u!114 &114200541038761754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/TestBank.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/TestBank.bank
+  SubDir: 
+  lastModified: 637141895647065849
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
 --- !u!114 &114213444794709500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -214,6 +232,24 @@ MonoBehaviour:
   lastModified: 637140169763170455
   LoadResult: 0
   FileSizes: []
+  Exists: 0
+--- !u!114 &114307645241975110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637141895646926222
+  LoadResult: 0
+  FileSizes: []
   Exists: 1
 --- !u!114 &114310323410244978
 MonoBehaviour:
@@ -230,7 +266,7 @@ MonoBehaviour:
   Path: event:/Testing
   guid: 0b9020fbb2278c45b6b0507e1676cb09
   Banks:
-  - {fileID: 114264815977587698}
+  - {fileID: 114307645241975110}
   IsStream: 0
   Is3D: 1
   IsOneShot: 1
@@ -252,7 +288,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../FMOD Studio 2.00.06/SoundSaveData/ClaudiaFmod/Build/Desktop/Master.strings.bank
   SubDir: 
-  lastModified: 637140169763190455
+  lastModified: 637141895647035937
   LoadResult: 0
   FileSizes:
   - Name: Desktop
@@ -356,7 +392,7 @@ MonoBehaviour:
   lastModified: 637140169763970058
   LoadResult: 0
   FileSizes: []
-  Exists: 1
+  Exists: 0
 --- !u!114 &114714251122074624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -486,7 +522,7 @@ MonoBehaviour:
   Path: event:/Testing2
   guid: 826724e68a1ea84981d406704922de91
   Banks:
-  - {fileID: 114706398810886892}
+  - {fileID: 114200541038761754}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
